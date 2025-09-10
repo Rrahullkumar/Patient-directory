@@ -100,7 +100,7 @@ export default function DataTable({ searchTerm, sortBy, sortOrder }) {
                   </div>
                 </td>
                 <td className="p-4">
-                  <span className="px-2 py-1  rounded text-sm">
+                  <span className="  rounded text-sm">
                     Age {patient.age}
                   </span>
                 </td>
