@@ -96,7 +96,7 @@ const medicalColors = {
 - npm or yarn package manager
 
 ### Installation
-Clone the repository
+```Clone the repository
 git clone https://github.com/Rrahullkumar/Patient-directory.git
 cd Patient-directory
 
@@ -105,7 +105,7 @@ npm install
 
 Start development server
 npm run dev
-
+```
 
 ## 📱 Features Showcase
 
