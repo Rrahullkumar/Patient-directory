@@ -37,7 +37,7 @@ export default function HomePage() {
               <img
                 src="/filterIcon.svg"
                 alt="Filter"
-                className="absolute right-3 top-1/2 transform -translate-y-1/2 w-5 h-5 cursor-pointer hover:opacity-70"
+                className="absolute right-3 top-1/2 transform -translate-y-1/2 w-15 h-15 cursor-pointer hover:opacity-70"
                 onClick={() => console.log('Filter clicked!')}
               />
             </div>
