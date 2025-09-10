@@ -19,9 +19,8 @@ A modern, responsive single-page application built with Next.js that provides co
 | **Responsive Design** | ✅ | Mobile-first responsive implementation |
 | **Custom Implementation** | ✅ | No external libraries for core functionality |
 
-## 🏗️ Project Architecture
-
-src/
+🏗️ Project Architecture
+```src/
 ├── app/
 │   ├── layout.tsx
 │   ├── page.tsx
@@ -34,7 +33,7 @@ src/
 │   └── DataCards.tsx
 └── data/
     └── data.json
-
+```
 
 
 
