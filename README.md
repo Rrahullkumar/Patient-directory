@@ -79,6 +79,7 @@ text
 - **⚡ Performance**: Optimized API queries and efficient React re-renders
 
 ### Medical Condition Color System
+```
 const medicalColors = {
 'fever': 'bg-[#DC262666] border border-[#FF0000]',
 'headache': 'bg-[#F57C0B80] border border-[#EA7100]',
@@ -87,7 +88,7 @@ const medicalColors = {
 'rash': 'bg-[#EC489980] border border-[#EC4899]',
 'ear infection': 'bg-[#06B6D480] border border-[#00A2BD]'
 };
-
+```
 
 ## 🚀 Getting Started
 
